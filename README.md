@@ -2,7 +2,7 @@
 
 Offline-friendly + GitHub-rendered. Auto-updated after each tutoring session.
 
-Open `index.html` on any device (no internet needed), or browse the `.md` files here on GitHub.
+_5 chats, 140 messages, updated 2026-09-27._ Open `index.html` on any device (no internet needed), or browse the `.md` files here on GitHub.
 
 | Date | Chat | Size | Preview |
 |---|---|---|---|
